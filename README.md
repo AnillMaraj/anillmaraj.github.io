@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+![Anill Louis Maraj](https://user-images.githubusercontent.com/103867764/164181573-69609d31-9091-4836-aa62-ce34603d85ac.png)
 
-You can use the [editor on GitHub](https://github.com/AnillMaraj/anillmaraj.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Anill Louis Maraj](https://anillmaraj.github.io/) | Web Designer & Dveloper
+### [GitHub Profile](https://github.com/AnillMaraj)
 
-### Markdown
+Hi my name is Anill Maraj, I'm interested in Web Development and Machine Learning. I come from a small Caribbean island
+where tropical breeze and relaxing beaches are just outside my doorstep. I enjoy learning new technologies related to media and data science.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Developer Interests
+I particularly enjoy simple coding and media projects, however my key points of interest are;
+- Full-stack Web Development
+- IoT Devices
+- Machine Learning and Data Science
+- UI/UX and Media Technology
 
-```markdown
-Syntax highlighted code block
+### Learning Interests
+Technologies change so frequently with the constant emergence of new disruptive tools and frameworks that I have accepted my goal isn't to learn all things,
+just enough of everything to make life simpler for everyone. That said, I <3 Python and aim to grow my understanding of what it can truly do in the future.
 
-# Header 1
-## Header 2
-### Header 3
+### Contact Me
+Feel free to get in touch via the following social media and contact links:
+- [Connect via Facebook](https://www.facebook.com/AnillMaraj)
+- [Connect via Twitter](https://www.twitter.com/AnillMaraj)
+- [Connect via Instagram](https://www.instagram.com/AnillMaraj)
+- [Connect via LinkedIn](https://www.linkedin.com/in/AnillMaraj/)
+- [Connect via WhatsApp](https://wa.me/1868366007)
+- [Connect via Email](mailto:anillmaraj@gmail.com)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnillMaraj/anillmaraj.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Anill Louis Maraj](https://user-images.githubusercontent.com/103867764/164387226-330de18f-f1ba-487b-af7f-cfa1cdc9dedf.png)

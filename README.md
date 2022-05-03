@@ -21,9 +21,8 @@ just enough of everything to make life simpler for everyone. That said, I <3 Pyt
 ### Contact Me
 Feel free to get in touch via the following social media and contact links:
 
-![Anill Louis Maraj](profilepic.png)
+![Anill Louis Maraj](https://user-images.githubusercontent.com/103867764/164387226-330de18f-f1ba-487b-af7f-cfa1cdc9dedf.png)
 #### Anill Louis Maraj | Website Developer
-
 
   [![Connect via GitHub](assets/img/social/github.png)](https://anillmaraj.github.io)
 | [![Connect via Facebook](assets/img/social/facebook.png)](https://www.facebook.com/AnillMaraj)

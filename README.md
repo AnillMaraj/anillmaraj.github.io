@@ -24,7 +24,7 @@ Feel free to get in touch via the following social media and contact links:
 ![Anill Louis Maraj](https://user-images.githubusercontent.com/103867764/164387226-330de18f-f1ba-487b-af7f-cfa1cdc9dedf.png)
 #### Anill Louis Maraj | Website Developer
 
-  [![Connect via GitHub](assets/img/social/github.png)](https://anillmaraj.github.io)
+[![Connect via GitHub](assets/img/social/github.png)](https://anillmaraj.github.io)
 | [![Connect via Facebook](assets/img/social/facebook.png)](https://www.facebook.com/AnillMaraj)
 | [![Connect via Twitter](assets/img/social/twitter.png)](https://www.twitter.com/AnillMaraj)
 | [![Connect via Instagram](assets/img/social/instagram.png)](https://www.instagram.com/AnillMaraj)

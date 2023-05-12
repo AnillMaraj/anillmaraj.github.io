@@ -1,5 +1,6 @@
 /**
 * Name: Anill Louis Maraj
+* Project: Anill Maraj GitHub Page
 * License: Apache License
 * License Version: 2.0, January 2004
 * License URL: http://www.apache.org/licenses/
@@ -9,7 +10,7 @@
   "use strict";
 
   /**
-   * Easy selector helper function
+   * Easy Selector Helper Function
    */
   const select = (el, all = false) => {
     el = el.trim()
@@ -21,7 +22,7 @@
   }
 
   /**
-   * Easy event listener function
+   * Easy Event Listener Function
    */
   const on = (type, el, listener, all = false) => {
     let selectEl = select(el, all)
@@ -35,14 +36,14 @@
   }
 
   /**
-   * Easy on scroll event listener 
+   * Easy on Scroll Event Listener 
    */
   const onscroll = (el, listener) => {
     el.addEventListener('scroll', listener)
   }
 
   /**
-   * Navbar links active state on scroll
+   * Navbar Links Active State on Scroll
    */
   let navbarlinks = select('#navbar .scrollto', true)
   const navbarlinksActive = () => {
@@ -62,7 +63,7 @@
   onscroll(document, navbarlinksActive)
 
   /**
-   * Scrolls to an element with header offset
+   * Scrolls to an Element with Header Offset
    */
   const scrollto = (el) => {
     let elementPos = select(el).offsetTop
@@ -73,7 +74,7 @@
   }
 
   /**
-   * Back to top button
+   * Back to Top Button
    */
   let backtotop = select('.back-to-top')
   if (backtotop) {
@@ -89,7 +90,7 @@
   }
 
   /**
-   * Mobile nav toggle
+   * Mobile Nav Toggle
    */
   on('click', '.mobile-nav-toggle', function(e) {
     select('body').classList.toggle('mobile-nav-active')
@@ -98,7 +99,7 @@
   })
 
   /**
-   * Scrool with ofset on links with a class name .scrollto
+   * Scroll with Offset on Links with a Class Name .scrollto
    */
   on('click', '.scrollto', function(e) {
     if (select(this.hash)) {
@@ -116,7 +117,7 @@
   }, true)
 
   /**
-   * Scroll with ofset on page load with hash links in the url
+   * Scroll with Offset on Page Load with Hash Links in the Url
    */
   window.addEventListener('load', () => {
     if (window.location.hash) {
@@ -137,7 +138,7 @@
   }
 
   /**
-   * Hero type effect
+   * Hero Type Effect
    */
   const typed = select('.typed')
   if (typed) {
@@ -153,7 +154,7 @@
   }
 
   /**
-   * Skills animation
+   * Skills Animation
    */
   let skilsContent = select('.skills-content');
   if (skilsContent) {
@@ -170,7 +171,7 @@
   }
 
   /**
-   * Porfolio isotope and filter
+   * Porfolio Isotope and Filter
    */
   window.addEventListener('load', () => {
     let portfolioContainer = select('.portfolio-container');
@@ -200,14 +201,14 @@
   });
 
   /**
-   * Initiate portfolio lightbox 
+   * Initiate Portfolio Lightbox 
    */
   const portfolioLightbox = GLightbox({
     selector: '.portfolio-lightbox'
   });
 
   /**
-   * Initiate portfolio details lightbox 
+   * Initiate Portfolio Details Lightbox 
    */
   const portfolioDetailsLightbox = GLightbox({
     selector: '.portfolio-details-lightbox',
@@ -216,7 +217,7 @@
   });
 
   /**
-   * Portfolio details slider
+   * Portfolio Details Slider
    */
   new Swiper('.portfolio-details-slider', {
     speed: 400,
@@ -233,7 +234,7 @@
   });
 
   /**
-   * Testimonials slider
+   * Testimonials Slider
    */
   new Swiper('.testimonials-slider', {
     speed: 600,
@@ -251,7 +252,7 @@
   });
 
   /**
-   * Animation on scroll
+   * Animation on Scroll
    */
   window.addEventListener('load', () => {
     AOS.init({
